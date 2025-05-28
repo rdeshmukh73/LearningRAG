@@ -48,13 +48,13 @@ h. Retrieved Documents + Original Query --> LLM --> Response Generation
 
 ### High Level Architecture
 
-![RAG Architecture High Level](images/WhatIsRAG.png)
+![RAG Architecture High Level](./images/WhatIsRAG.png)
 
 - Image Source: Datacamp.com
 
 ### RAG Pipeline
 
-![RAG Architecture High Level](images/RAGPipeline.jpg)
+![RAG Architecture High Level](./images/RAGPipeline.jpg)
 
 - Image Source: LinkedIn (Pavan Belagatti)
 
