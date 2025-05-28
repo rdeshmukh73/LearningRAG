@@ -64,11 +64,11 @@ There are 2 popular frameworks that support the creation of RAG. Langchain and L
 
 ### Langchain
 
-![RAG Architecture High Level](images/Langchain.png)
+![RAG Architecture High Level](./Images/Langchain.png)
 
 ### LlamaIndex
 
-![RAG Architecture High Level](images/Llamaindex.png)
+![RAG Architecture High Level](./Images/Llamaindex.png)
 
 ## Vector Databases
 
